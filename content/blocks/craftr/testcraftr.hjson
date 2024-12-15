@@ -1,4 +1,7 @@
 name:"お試し"
 type:multicraft.MultiCrafter
 description:"ｴﾝﾀﾞｱｱｱｱｱｱｱｱｲﾔｧｧｧｧｧｧ(おふざけ)"
+
 size:2
+hasPower:true
+hasItems:true
