@@ -1,1 +1,9 @@
-aa
+name:"omoituki"
+author:"naikara347"
+displayName:"omoituki"
+description:"naikara77"
+version:"1.0"
+minGameVersion:"145"
+
+main:MultiCrafterAdapter
+java:true
