@@ -2,7 +2,7 @@ name:"test"
 displayName:"test"
 description:"消す予定"
 author:"naikara77"
-version:"0.34"
+version:"1"
 minGameVersion:"145.0"
 #main:MultiCrafterAdapter
 #java:true
