@@ -1,11 +1,11 @@
 type: multicraft.MultiCrafter
 name: testcraftr
 description:"ガチでtest目的"
+
 size: 2
 hasPower: true
 hasItems: true
 craftTime: 120
-updateEffect:false
 
 recipes: [
   {
