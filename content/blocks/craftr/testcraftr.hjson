@@ -31,3 +31,16 @@ power:2.5
 }
 craftTime:100.0
 }
+//建築コスト
+requirements:[
+copper/1
+]
+//研究
+research:{
+//親
+parent:drill
+//研究コスト
+requirements:[
+copper/1
+]
+}
